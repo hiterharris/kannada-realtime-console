@@ -53,4 +53,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 
-For any questions or suggestions, please open an issue in the repository.
+For any questions or suggestions, please open an issue in the repository.# kannada-realtime-console
